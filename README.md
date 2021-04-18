@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ░░░░░░  ░░░░░░░ ░░   ░░ ░░  ░░░░░░  ░░░    ░░ 
 ▒▒   ▒▒ ▒▒       ▒▒ ▒▒  ▒▒ ▒▒    ▒▒ ▒▒▒▒   ▒▒ 
 ▒▒   ▒▒ ▒▒▒▒▒     ▒▒▒   ▒▒ ▒▒    ▒▒ ▒▒ ▒▒  ▒▒ 
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 [![dexion's GitHub stats](https://github-readme-stats.vercel.app/api?username=meon2325&show_icons=true&theme=tokyo_night)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meon2325&layout=compact)]
 
+-->
