@@ -22,7 +22,7 @@
 Currently working on ntacid (most likely it won't be released to public)
 <img src="https://raw.githubusercontent.com/meon2325/meon2325/main/rgb.gif" width="100%">
 
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=meon2325&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=21"/>
+<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=meon2325&hide_title=true&hide_border=true&theme=midnight-purple&show_icons=true&include_all_commits=true&&line_height=21"/>
 </a>
 <!--<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meon2325&layout=compact"/>
 </a> -->
